@@ -1,7 +1,7 @@
 # AirportSystem
 simple airport system using sql database
-form(login for the admin or normal user go to passenger tab
 ## form1
+form(login for the admin or normal user go to passenger tab
 
 ![Alt text](https://github.com/SaadMu7ammad/AirportSystem/blob/main/pics/form1.png)
 
