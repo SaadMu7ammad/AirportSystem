@@ -10,18 +10,18 @@ form(login for the admin or normal user go to passenger tab
 <br>
 enter your info and image of you
 
-![Alt text](https://github.com/SaadMu7ammad/AirportSystem/blob/main/pics/pass.png)
+![Alt text](https://github.com/SaadMu7ammad/AirportSystem/blob/main/pics/passenger.png)
 
 ## flight(for admin accessing)
 <br>
 update the flight and its dates and changes
 
-![Alt text](https://github.com/SaadMu7ammad/AirportSystem/blob/main/pics/fly.png)
+![Alt text](https://github.com/SaadMu7ammad/AirportSystem/blob/main/pics/flight.png)
 
 ## ticket
 <br>
 select a flight and after selection you can print it
-<br>
-![Alt text](https://github.com/SaadMu7ammad/AirportSystem/blob/main/pics/tick.png)
+
+![Alt text](https://github.com/SaadMu7ammad/AirportSystem/blob/main/pics/ticket.png)
 
 
