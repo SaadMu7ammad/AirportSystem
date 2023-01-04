@@ -2,9 +2,10 @@
 simple airport system using sql database
 form(login for the admin or normal user go to passenger tab
 ## form1
-<br>
+
 ![Alt text](https://github.com/SaadMu7ammad/AirportSystem/blob/main/pics/form1.png)
-<br>
+
+
 ## passenger
 <br>
 enter your info and image of you
