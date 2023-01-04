@@ -1,2 +1,2 @@
 # AirportSystem
-simple airport system using database
+simple airport system using sql database
