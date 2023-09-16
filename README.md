@@ -24,3 +24,7 @@ select a flight and after selection you can print it
 ![Alt text](https://github.com/SaadMu7ammad/AirportSystem/blob/main/pics/ticket.png)
 
 
+## ticket Output
+<br>
+
+![Alt text](https://github.com/SaadMu7ammad/AirportSystem/blob/main/pics/ticketOutput.png)
